@@ -21,7 +21,7 @@ SampNum  = 5000;
 opts = [];
 opts.alpha = 1;
 opts.batchsize = 50;
-opts.numepochs = 15;
+opts.numepochs = 3;
 
 WinSize  = 18;
 cnn.layers = {
